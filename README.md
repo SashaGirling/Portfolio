@@ -2,8 +2,8 @@
 A sample of my project work using SQL, Tableau, Python and libraries Pandas, Numpy, Scikit-Learn and more. 
 
 
-#### Player Retention and Churn (SQL, Excel)
-[Project overview](https://github.com/SashaGirling/Retenetion-and-Churn-SQL-/blob/933c3cb90dd255f056ad3c6d93e871257abdc2f1/README.md) [Queries](https://github.com/SashaGirling/Retenetion-and-Churn-SQL-/blob/main/queries.txt.txt)
+#### Player Retention and Churn (SQL, Excel) 
+[Project overview](https://github.com/SashaGirling/Retenetion-and-Churn-SQL-/blob/933c3cb90dd255f056ad3c6d93e871257abdc2f1/README.md) [Queries](https://github.com/SashaGirling/Retenetion-and-Churn-SQL-/blob/main/queries.txt.txt)\
 ●	In BigQuery I utilized my SQL skills to draw insights from a relational database regarding game player registration, retention and churn. I then aggregated the data through Pivot tables in Excel and created visualizations.
 
 #### Food Consumption Trends (Tableau)
