@@ -12,7 +12,8 @@ A sample of my project work using SQL, Tableau, Python and libraries Pandas, Num
 [Tableau Visulization](https://public.tableau.com/views/TrendsinUSPersonalConsumptionExpendituresbyTypeofProduct/Trendanalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Customer Profile Analysis (Python: Pandas, NumPy, Seaborn, statsmodels)
-●	Utilized Python and libraries to explore, clean and analyze a customer behaviour dataset through predictive modeling and correlation analysis. 
+●	Utilized Python and libraries to explore, clean and analyze a customer behaviour dataset through predictive modeling and correlation analysis. <br>
+[Jupyter Notebook](https://github.com/SashaGirling/Customer-Profile-Analysis/blob/main/AssignFINAL.ipynb)
 
 #### Social Media Marketing Analysis (Tableau, Python: NumPy, Scikit-Learn, Seaborn)
 ●	Utilized Python and multiple libraries to undertake analysis and data cleaning of social media ad campaign dataset to recommend targeting using linear regression and correlation. I also created a Tableau story that included interactive graphs and calculated fields to visualize metrics and recommendations. 
