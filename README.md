@@ -9,7 +9,7 @@ A sample of my project work using SQL, Tableau, Python and libraries Pandas, Num
 #### Food Consumption Trends (Tableau)
 ●	An analysis and visualization in Tableau that demonstrates how data can be aggregated and presented in multiple ways to develop opposing stories. <br>
 [Project overview](https://github.com/SashaGirling/Consumption-Expenditures/blob/Main/proposal.md) <br>
-[Tableau Visulization](https://public.tableau.com/views/TrendsinUSPersonalConsumptionExpendituresbyTypeofProduct/Trendanalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau Visualization](https://public.tableau.com/views/TrendsinUSPersonalConsumptionExpendituresbyTypeofProduct/Trendanalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Customer Profile Analysis (Python: Pandas, NumPy, Seaborn, statsmodels)
 ●	Utilized Python and libraries to explore, clean and analyze a customer behaviour dataset through predictive modeling and correlation analysis. <br>
