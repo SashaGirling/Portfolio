@@ -7,7 +7,7 @@ A sample of my project work using SQL, Tableau, Python and libraries Pandas, Num
 [Project overview](https://github.com/SashaGirling/Retenetion-and-Churn-SQL-/blob/933c3cb90dd255f056ad3c6d93e871257abdc2f1/README.md) <br> [SQL Queries](https://github.com/SashaGirling/Retenetion-and-Churn-SQL-/blob/main/queries.txt.txt)
 
 #### Food Consumption Trends (Tableau)
-●	An analysis and visualization in Tableau that demonstrates how data can be aggregated and presented in multiple ways to develop opposing stories.
+●	An analysis and visualization in Tableau that demonstrates how data can be aggregated and presented in multiple ways to develop opposing stories. <br>
 [Project overview](https://github.com/SashaGirling/Consumption-Expenditures/blob/Main/proposal.md) <br>
 [Tableau Visulization](https://public.tableau.com/views/TrendsinUSPersonalConsumptionExpendituresbyTypeofProduct/Trendanalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
