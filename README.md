@@ -1,3 +1,8 @@
+Hello, I'm Sasha!
+
+I am a data analyst who utilizes skills in Python, SQL and Tableau and my ever-growing love of Excel to draw meaningful conclusions from data sets that informs my strategic work.
+With a background in operations and marketing strategy in the music industry I bring skills to strategize solutions for business and projects while identifying opportunities for growth through trend analysis and case studies. 
+
 # Portfolio
 A sample of my project work using SQL, Tableau, Python and libraries Pandas, Numpy, Scikit-Learn and more. 
 
